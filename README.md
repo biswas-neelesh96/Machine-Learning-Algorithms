@@ -9,7 +9,7 @@ This repository is used for Programs in **Machine Learning** for **Hacktoberfest
 
 1) Before contributing, make sure you have a [GitHub](https://github.com) account with a proper knowledge of Git or Github. Also you are requested to visit the official website of [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com) before contributing to the repositories.
 
-2) Since, this repository is used for writing Machine Learning Algorithms, you are advised to upload your codes in related languages. Although **Python, MATLAB & R** are highly preferred, you can upload in any other language.
+2) Since, this repository is used for writing Machine Learning Algorithms, you are advised to upload your codes in related languages. Although **Python, MATLAB & R** are highly preferred, you can upload in any other language whichever comfortable for you.
 
 3) Please make sure your files are shared in relevant extensions of the languages; for example, **.py & (.ipynb)** are for **Python**, simlarly, **.m** is for **MATLAB** and vice-versa. If you want your pull requests to be merged, please share your codes with their respective extension. Further if you share **.txt** or any text file extension, then it won't be accepted.  
 
