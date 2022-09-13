@@ -2,12 +2,12 @@
 
 This repository is used for Programs in **Machine Learning** for **Hacktoberfest 2022**
 
-![Hacktoberfest 2020](https://github.com/biswas-neelesh96/Python-Scripts/blob/master/H20-Images/Screenshot-(886).png)
+![Hacktoberfest 2022](https://github.com/biswas-neelesh96/Machine-Learning-Algorithms/blob/main/Screenshot%20(18).png)
 
 ## Guidelines for contribution:
 ---
 
-1) Before contributing, make sure you have a [GitHub](https://github.com) account with a proper knowledge of Git or Github. Also follow the guidelines of [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/faq)
+1) Before contributing, make sure you have a [GitHub](https://github.com) account with a proper knowledge of Git or Github. Also you are requested to visit the official website of [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com) before contributing to the repositories.
 
 2) Since, this repository is used for writing Machine Learning Algorithms, you are advised to upload your codes in related languages. Although **Python, MATLAB & R** are highly preferred, you can upload in any other language.
 
