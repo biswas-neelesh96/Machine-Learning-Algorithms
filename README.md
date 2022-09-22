@@ -11,7 +11,7 @@ This repository is used for Programs in **Machine Learning** for **Hacktoberfest
 
 2) Since, this repository is used for writing Machine Learning Algorithms, you are advised to upload your codes in related languages. Although **Python, MATLAB & R** are highly preferred, you can upload in any other language whichever comfortable for you.
 
-3) Please make sure your files are shared in relevant extensions of the languages; for example, **.py & (.ipynb)** are for **Python**, simlarly, **.m** is for **MATLAB** and vice-versa. If you want your pull requests to be merged, please share your codes with their respective extension. Further if you share **.txt** or any text file extension, then it won't be accepted.  
+3) Please make sure your files are shared in relevant extensions of the languages; for example, **.py & (.ipynb)** are for **Python**, simlarly, **.m** is for **MATLAB** and vice-versa. If you want your pull requests to be merged, please share your codes with their respective extensions. Further if you share **.txt** or any text file extension or any extension which is irrevelant for the files, then it won't be accepted.  
 
 4) If you want you can create a pull request by sharing your repository or your project.
 
